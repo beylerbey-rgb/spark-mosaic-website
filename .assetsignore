@@ -1,5 +1,10 @@
 .git
+.git/**
+.wrangler
+.wrangler/**
 .gitignore
 .assetsignore
 wrangler.jsonc
 README.md
+node_modules
+node_modules/**
